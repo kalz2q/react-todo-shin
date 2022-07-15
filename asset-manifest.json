@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-todo-shin/static/css/main.45e8ada7.css",
+    "main.js": "/react-todo-shin/static/js/main.056895b4.js",
+    "index.html": "/react-todo-shin/index.html",
+    "main.45e8ada7.css.map": "/react-todo-shin/static/css/main.45e8ada7.css.map",
+    "main.056895b4.js.map": "/react-todo-shin/static/js/main.056895b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45e8ada7.css",
+    "static/js/main.056895b4.js"
+  ]
+}
