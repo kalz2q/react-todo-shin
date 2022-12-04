@@ -1,5 +1,8 @@
 # react-todo-shin
 
+
+---
+
 list-map を切り出し中
 elm version が美しいので読めればそれで行きたい。
 
